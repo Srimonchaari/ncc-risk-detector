@@ -1,6 +1,6 @@
-NCC Risk Detector
-Version 1.0
-Last Updated: 2025-07-18
+# NCC Risk Detector
+## Version 1.0
+## Last Updated: 2025-07-18
 
 
 1. Introduction and Goals
