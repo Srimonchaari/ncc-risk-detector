@@ -63,6 +63,7 @@ different Python modules within the ncc_risk_detector source directory.
 | report_generator.py       +----->|   output/summary.txt      |
 | (Creates Summary)         |      +---------------------------+
 +---------------------------+
+```
 
 
 main.py: The entry point and orchestrator of the application. It calls other modules in sequence to execute the analysis pipeline.
