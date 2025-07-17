@@ -33,6 +33,7 @@ This hybrid approach provides the "best of both worlds": the efficiency of a sma
 The application is built with a modular architecture, separating distinct functionalities into 
 different Python modules within the ncc_risk_detector source directory.
 
+```
 +---------------------------+
 |         main.py           |
 | (Orchestrator)            |
